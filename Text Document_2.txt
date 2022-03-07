@@ -7,3 +7,4 @@ git commit -m "A new file is added"
 git status
 git push
 git status
+ запросят логин и пароль
