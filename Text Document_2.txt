@@ -1,0 +1,9 @@
+cd
+git status
+dir
+git add .
+git status
+git commit -m "A new file is added"
+git status
+git push
+git status
